@@ -81,6 +81,10 @@ img {
     margin: 0;
   }
 
+  .row {
+    width: 100%;
+  }
+
   #lezioni .row>.left,
   #lezioni .row>.right,
   #steps .row>.left,
@@ -146,10 +150,8 @@ img {
     margin: 0;
   }
 
-  #lezioni .row>.left,
-  #lezioni .row>.right{
-    margin: auto;
-    width: 50%;
+  .row {
+    width: 100%;
   }
 
   #lezioni .row>.left,
